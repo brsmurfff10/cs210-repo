@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cs210-lcoppock/cs210-lcoppock.vcxproj" Id="7ec70e42-2bff-4f18-9ae9-1dfb00c10b59" />
+</Solution>
